@@ -15,6 +15,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#ignore node_modules
+node_modules/
+
 # Windows shortcuts
 *.lnk
 
